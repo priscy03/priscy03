@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Data Anaytics & Visualization.<br>🎯 Goals: Learning how to use Data Analytics effectively.<br>🎲 Fun fact: I do not really like ice cream.</p>
+<p align="left">📚 I'm currently learning Data Anaytics & Visualization.<br>🎯 Goals: Learning how to use Data Analytics to solve business challenges.<br>🎲 Fun fact: I do not really like ice cream.</p>
 
 ###
 
